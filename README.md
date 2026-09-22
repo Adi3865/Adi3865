@@ -29,7 +29,8 @@ Deployed a full-stack app on AWS EC2 with NGINX as a reverse proxy, SSL via Cert
 ## 🌍 Let's Connect
 
 - LinkedIn: [linkedin.com/in/aditya-chauhan]([https://www.linkedin.com/in/adityadevops](https://www.linkedin.com/in/aditya-chauhan-b5445b213)) 
-- Email: adityachauhan7467@gmail.com 
+- Email: adityachauhan7467@gmail.com
+- Portfolio: https://adityachauhan-woad.vercel.app/
 
 ---
 
